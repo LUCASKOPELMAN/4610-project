@@ -28,4 +28,8 @@ The doctor’s office system handles a variety of operations, including patient 
 
 - This query could be used when an individual wants to find an experienced doctor for a specific specialty. Because it sorts the doctors by year of experience descending, the first doctor returned will be the most experienced. This could be used in a case where someone with vast background knowledge is needed for a specific condition.
 
+3. Query 3 gets all past appointments scheduled before the current date.
+![groupprojq3](https://github.com/user-attachments/assets/d4f72ccf-aaf8-4eef-8b5b-077d9de402eb)
+
+- Hospitals need to know all past appointments to keep track of patient history and make sure they get proper care. It helps doctors see what treatments/check-ups a patient has already had, so they don’t repeat tests or miss important follow-ups. It also helps with scheduling, spotting missed appointments, and understanding patient needs over time. Plus, past appointments are useful for billing, insurance claims, and keeping medical records accurate. Without this information, it would be harder to give the best care and keep everything organized.
 

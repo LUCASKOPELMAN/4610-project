@@ -54,6 +54,6 @@ The doctor’s office system handles a variety of operations, including patient 
 
 <img width="884" alt="Screenshot 2025-03-17 at 4 20 02 PM" src="https://github.com/user-attachments/assets/852001c0-4a5f-4c00-b6d0-500de259f244" />
 
-- 
+- This query is useful for determining which insurance providers are the most popular amongst patients and how much patients pay for their plans. This gives the hospital better support for business decisions, such as which providors should be supported.
 
 10.

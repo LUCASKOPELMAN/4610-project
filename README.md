@@ -31,9 +31,8 @@ The doctor’s office system handles a variety of operations, including patient 
 2.
 
 3. Query 3 gets all past appointments scheduled before the current date.
-![groupprojq3](https://github.com/user-attachments/assets/d4f72ccf-aaf8-4eef-8b5b-077d9de402eb)
 
-
+![y](https://github.com/user-attachments/assets/4a76c937-ba34-4a57-b201-c9f83c79bb1c)
 - Hospitals need to know all past appointments to keep track of patient history and make sure they get proper care. It helps doctors see what treatments/check-ups a patient has already had, so they don’t repeat tests or miss important follow-ups. It also helps with scheduling, spotting missed appointments, and understanding patient needs over time. Plus, past appointments are useful for billing, insurance claims, and keeping medical records accurate. Without this information, it would be harder to give the best care and keep everything organized.
 
 4.
@@ -49,6 +48,7 @@ The doctor’s office system handles a variety of operations, including patient 
 7.
 
 8.
+
 
 9. Query 9 retrieves insurance providers, the number of patients served and the average premium of their policies.
 

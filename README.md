@@ -15,8 +15,7 @@ The doctor’s office system handles a variety of operations, including patient 
 
 # Image of our Data Model
 
-
-
+![unnamed](https://github.com/user-attachments/assets/f82564a3-062d-40c3-a8f9-9e6e3defea72)
 
 # Data Dictionary
 

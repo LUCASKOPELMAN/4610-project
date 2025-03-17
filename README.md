@@ -32,7 +32,8 @@ The doctor’s office system handles a variety of operations, including patient 
 
 3. Query 3 gets all past appointments scheduled before the current date.
 
-![y](https://github.com/user-attachments/assets/4a76c937-ba34-4a57-b201-c9f83c79bb1c)
+<img width="588" alt="Screenshot 2025-03-17 at 5 11 55 PM" src="https://github.com/user-attachments/assets/f286bcee-c722-4e90-95aa-fc170d9a8988" />
+
 - Hospitals need to know all past appointments to keep track of patient history and make sure they get proper care. It helps doctors see what treatments/check-ups a patient has already had, so they don’t repeat tests or miss important follow-ups. It also helps with scheduling, spotting missed appointments, and understanding patient needs over time. Plus, past appointments are useful for billing, insurance claims, and keeping medical records accurate. Without this information, it would be harder to give the best care and keep everything organized.
 
 4.
@@ -40,8 +41,8 @@ The doctor’s office system handles a variety of operations, including patient 
 5.
 
 6. Query 6 finds Patients Diagnosed with a Specific Disease (in this case, asthma)
-![x](https://github.com/user-attachments/assets/fc657df4-9843-460d-9d62-fbd2a957f13b)
 
+<img width="748" alt="Screenshot 2025-03-17 at 5 12 59 PM" src="https://github.com/user-attachments/assets/e081e46f-53d2-4aeb-a6b6-bbbb5f3c9bfa" />
 
 - Hospitals need to know which patients have a certain disease so they can give them the right care. It helps doctors keep track of who needs treatment, follow-ups, or special attention. It also makes sure the hospital has enough medicine and equipment for those patients. Plus, knowing this can help spot outbreaks and find better ways to treat the disease- for research purposes. Without this info, it would be harder to make sure patients get the right care when they need it.
 

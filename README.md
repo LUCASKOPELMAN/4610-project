@@ -41,8 +41,8 @@ The doctor’s office system handles a variety of operations, including patient 
 5.
 
 6. Query 6 finds Patients Diagnosed with a Specific Disease (in this case, asthma)
+![x](https://github.com/user-attachments/assets/fc657df4-9843-460d-9d62-fbd2a957f13b)
 
-![groupprojq6](https://github.com/user-attachments/assets/8d6dc71f-029f-44e1-a2e7-b7029f5cdf8c)
 
 - Hospitals need to know which patients have a certain disease so they can give them the right care. It helps doctors keep track of who needs treatment, follow-ups, or special attention. It also makes sure the hospital has enough medicine and equipment for those patients. Plus, knowing this can help spot outbreaks and find better ways to treat the disease- for research purposes. Without this info, it would be harder to make sure patients get the right care when they need it.
 

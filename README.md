@@ -5,7 +5,7 @@ Members:
 -  Amanda Nolan
 -  Allie Rose
 -  Aarav Patel
--  Sai Anagha
+-  Saianagha Attili
 
 # Problem Description
 The task at hand is to design and implement a relational database that accurately models the core functions of a doctor’s office management system. The goal of this project is to create a structured and efficient way to store, retrieve, and manage patient records, doctor information, medical treatments, prescriptions, insurance details, and appointments.

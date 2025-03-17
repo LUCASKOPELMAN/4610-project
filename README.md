@@ -15,6 +15,9 @@ The doctor’s office system handles a variety of operations, including patient 
 
 # Image of our Data Model
 
+[MIST Group Project 1.pdf](https://github.com/user-attachments/files/19296691/MIST.Group.Project.1.pdf)
+
+
 # Data Dictionary
 
 # Queries 

@@ -50,6 +50,10 @@ The doctor’s office system handles a variety of operations, including patient 
 
 8.
 
-9.
+9. Query 9 retrieves insurance providers, the number of patients served and the average premium of their policies.
+
+<img width="884" alt="Screenshot 2025-03-17 at 4 20 02 PM" src="https://github.com/user-attachments/assets/852001c0-4a5f-4c00-b6d0-500de259f244" />
+
+- 
 
 10.

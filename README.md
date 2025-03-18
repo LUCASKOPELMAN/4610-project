@@ -2,7 +2,7 @@
 
 Members:
 - Lucas Kopelman
--  Amanda Nolan
+-  Amanda Nolan @atn10636
 -  Allie Rose
 -  Aarav Patel
 -  Saianagha Attili

@@ -56,4 +56,8 @@ The doctor’s office system handles a variety of operations, including patient 
 
 - This query is useful for determining which insurance providers are the most popular amongst patients and how much patients pay for their plans. This gives the hospital better support for business decisions, such as which providors should be supported.
 
-10.
+10. Query 10 lists first and last names of patients born before 1985 that have scheduled a visit since 2023. along with the name of their insurance provider.
+
+![image](https://github.com/user-attachments/assets/7518c36c-43e5-4c19-b7da-c01b0a917de4)
+
+- This query is important to managers at it showcases a more complex search parameter. The information returned by this query would likely be used by a manager to determine which healthcare providers the office's current/recent patients are using. This information could help determine which providers include this office in their coverage policies.

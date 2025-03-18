@@ -33,6 +33,24 @@ Our data model supports patient health records, doctor details, appointments, in
 
 <img width="810" alt="Image" src="https://github.com/user-attachments/assets/3735ab26-7475-4475-9686-3bb4355fc042" />
 
+<img width="814" alt="Image" src="https://github.com/user-attachments/assets/2ce472b9-9b42-4847-90a3-ef23c072840f" />
+
+<img width="816" alt="Image" src="https://github.com/user-attachments/assets/1624a806-546e-4fe2-b668-db8be06d2967" />
+
+<img width="814" alt="Image" src="https://github.com/user-attachments/assets/09737c64-7c99-46e7-ac5c-be42ff13a390" />
+
+<img width="805" alt="Image" src="https://github.com/user-attachments/assets/0b731c00-32a8-419c-9306-b6ad0402264f" />
+
+<img width="794" alt="Image" src="https://github.com/user-attachments/assets/3e2a7490-3464-4694-aad6-dd00815a9ca8" />
+
+<img width="817" alt="Image" src="https://github.com/user-attachments/assets/813fe69d-eea9-4edc-bab3-1b83f5b05235" />
+
+<img width="805" alt="Image" src="https://github.com/user-attachments/assets/417bf8a1-831e-46d5-bc22-86b55dc3d7eb" />
+
+<img width="809" alt="Image" src="https://github.com/user-attachments/assets/091f1235-3f08-4fec-a64f-4282e24c61dc" />
+
+<img width="798" alt="Image" src="https://github.com/user-attachments/assets/bf58077c-cc5c-4bc1-822e-cfa29022f900" />
+
 # Queries 
 
 <img width="687" alt="Screenshot 2025-03-18 at 2 56 54 PM" src="https://github.com/user-attachments/assets/4fe906ac-de7b-4034-b3fd-b66070bc8538" />

@@ -45,7 +45,11 @@ The doctor’s office system handles a variety of operations, including patient 
 
 - Hospitals need to know which patients have a certain disease so they can give them the right care. It helps doctors keep track of who needs treatment, follow-ups, or special attention. It also makes sure the hospital has enough medicine and equipment for those patients. Plus, knowing this can help spot outbreaks and find better ways to treat the disease- for research purposes. Without this info, it would be harder to make sure patients get the right care when they need it.
 
-7.
+7. Query 7 lists patients that have been diagnosed with either anxiety or depression, along with information pertaining to the next scheduled or most recent appointment.
+
+![image](https://github.com/user-attachments/assets/53c0eb41-4702-4e20-a0b1-63bef7310b0b)
+
+- A manager would use information from this query to ensure patients with mental illnesses are being regularly seen by doctors in the office. This is an important feature because certain diagnoses, such as mental illnesses, require different and specialized care from the doctor's office. If the manager notices a patient hasn't been seen in an extended period of time, they could notify a doctor to reach out to the patient.
 
 8.
 

@@ -117,3 +117,8 @@ Our data model supports patient health records, doctor details, appointments, in
 ![image](https://github.com/user-attachments/assets/7518c36c-43e5-4c19-b7da-c01b0a917de4)
 
 - Query 10 justification: This query is important to managers at it showcases a more complex search parameter. The information returned by this query would likely be used by a manager to determine which healthcare providers the office's current/recent patients are using. This information could help determine which providers include this office in their coverage policies.
+
+# Database Information
+Name of the database: ns_Sp25_21482_Group5
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();

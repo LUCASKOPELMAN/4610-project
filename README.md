@@ -3,7 +3,7 @@
 Members:
 - Lucas Kopelman
 -  Amanda Nolan [@atn10636](https://github.com/atn10636/MIST4610-Group-Project-1)
--  Allie Rose @allierose923
+-  Allie Rose 
 -  Aarav Patel
 -  Saianagha Attili
 

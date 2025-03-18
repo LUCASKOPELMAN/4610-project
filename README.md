@@ -4,7 +4,7 @@ Members:
 - Lucas Kopelman [@LUCASKOPELMAN](https://github.com/LUCASKOPELMAN)
 -  Amanda Nolan [@atn10636](https://github.com/atn10636)
 -  Allie Rose [@ajr29445](https://github.com/allierose923/MIST-461-Group-Project1)
--  Aarav Patel [@aarav04423](https://github.com/aarav04423)
+-  Aarav Patel [@aarav04423]([https://github.com/aarav04423](https://github.com/aarav04423/MIST4610PROJECT1/blob/main/README%20(2).md)
 -  Saianagha Attili
 
 # Problem Description

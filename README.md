@@ -18,6 +18,9 @@ The doctor’s office system handles a variety of operations, including patient 
 ![unnamed](https://github.com/user-attachments/assets/f82564a3-062d-40c3-a8f9-9e6e3defea72)
 
 # Data Dictionary
+<img width="806" alt="Image" src="https://github.com/user-attachments/assets/7674a476-662a-4405-a7ff-528a1f0d9454" />
+
+<img width="810" alt="Image" src="https://github.com/user-attachments/assets/3735ab26-7475-4475-9686-3bb4355fc042" />
 
 # Queries 
 

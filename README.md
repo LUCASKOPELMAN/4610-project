@@ -5,7 +5,7 @@ Members:
 -  Amanda Nolan [@atn10636](https://github.com/atn10636)
 -  Allie Rose [@ajr29445](https://github.com/allierose923/MIST-461-Group-Project1)
 -  Aarav Patel [@aarav04423](https://github.com/aarav04423/MIST4610PROJECT1)
--  Saianagha Attili
+-  Saianagha Attili[@sa85600](https://github.com/LUCASKOPELMAN/4610-project)
 
 # Problem Description
 The task at hand is to design and implement a relational database that accurately models the core functions of a doctor’s office management system. The goal of this project is to create a structured and efficient way to store, retrieve, and manage patient records, doctor information, medical treatments, prescriptions, insurance details, and appointments.
